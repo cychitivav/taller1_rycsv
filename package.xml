@@ -8,7 +8,8 @@
   <!-- Example:  -->
   <!-- <maintainer email="jane.doe@example.com">Jane Doe</maintainer> -->
   <maintainer email="cychitivav@unal.edu.co">Cristian Chitiva</maintainer>
-
+  <maintainer email="acanteroc@unal.edu.co">Daniel Cantero</maintainer>
+  <maintainer email="jsneisav@unal.edu.co">Juan Neisa</maintainer>
 
   <!-- One license tag required, multiple allowed, one license per tag -->
   <!-- Commonly used license strings: -->
@@ -26,7 +27,8 @@
   <!-- Authors do not have to be maintainers, but could be -->
   <!-- Example: -->
   <author email="cychitiva@unal.edu.co">Cristian Chitiva</author>
-  <author >Cristian Chitiva</author>
+  <author email="acanteroc@unal.edu.co">Daniel Cantero</author>
+  <author email="jsneisav@unal.edu.co">Juan Neisa</author>
 
 
   <!-- The *depend tags are used to specify dependencies -->
